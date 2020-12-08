@@ -11,3 +11,6 @@ Dart dosyalarını `lib/` klasörü içerisinde bulabilirsiniz.
 - Asset olarak resim ekleme ve boyutlandırma
 - AppBar oluşturma ve yazı ortalama
 - Yazı renklendirme
+
+Proje resmi:
+![](https://github.com/baspinarenes/flutter-proje-ornekleri/blob/main/proje_resimleri/proje1.jpg)
