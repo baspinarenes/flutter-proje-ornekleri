@@ -13,4 +13,7 @@ Dart dosyalarını `lib/` klasörü içerisinde bulabilirsiniz.
 - Yazı renklendirme
 
 Proje resmi:
-![](https://github.com/baspinarenes/flutter-proje-ornekleri/blob/main/proje_resimleri/proje1.jpg)
+
+<p align="center">
+<img src="https://github.com/baspinarenes/flutter-proje-ornekleri/blob/main/proje_resimleri/proje1.jpg" height="600">
+</p>
